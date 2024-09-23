@@ -3,3 +3,10 @@ public class Main {
         System.out.println("This is a console output!");
     }
 }
+
+
+public class FuckMig{
+    public void sauce(){
+        int SpisDInMOrt = 3;
+    }
+}
